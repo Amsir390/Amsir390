@@ -112,7 +112,6 @@ A responsive React project featuring dynamic menu rendering, sold-out state hand
 
 ## 🐍 Contribution Snake
 
-> This works after setting up GitHub Actions. Steps are below.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Amsir390/Amsir390/output/snake.svg" alt="Snake animation" />
