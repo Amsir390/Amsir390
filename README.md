@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer • CSE Student • Building AI-Powered Web Apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;CSE+Student+from+India;Building+AI-Powered+Projects;React+%7C+FastAPI+%7C+Firebase+%7C+Python;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;CSE+Student+from+India;Building+AI-Powered+Projects;React+%7C+Vite+%7CFastAPI+%7C+Firebase+%7C+Python;Always+learning%2C+trying+and+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
