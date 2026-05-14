@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer • CSE Student • Building AI-Powered Web Apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;CSE+Student+from+India;Building+AI-Powered+Projects;React+%7C+Vite+%7CFastAPI+%7C+Firebase+%7C+Python;Always+learning%2C+trying+and+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;CSE+Student+from+India;Building+AI-Powered+Projects;Java+%7C+React+%7C+Vite+%7C+FastAPI+%7C+Firebase+%7C+Python;Always+learning%2C+trying+and+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@ A responsive React project featuring dynamic menu rendering, sold-out state hand
   <a href="mailto:maityankush507@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ankush-m" target="_blank">
+  <a href="https://www.linkedin.com/in/ankush-m-8582052b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
