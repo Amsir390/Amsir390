@@ -78,12 +78,24 @@ A responsive React project featuring dynamic menu rendering, sold-out state hand
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amsir390&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amsir390&layout=compact&theme=tokyonight" />
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=Amsir390&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="GitHub Stats"
+  />
+  
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amsir390&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amsir390&theme=tokyonight" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Amsir390&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
