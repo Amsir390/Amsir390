@@ -1,115 +1,128 @@
 <h1 align="center">Hi 👋, I'm Ankush Maity</h1>
-<h3 align="center">Full Stack Developer • CSE Student • Building AI-Powered Web Apps</h3>
+
+<h3 align="center">
+Full Stack Developer • CSE Student • Building AI-Powered Web Apps
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;CSE+Student+from+India;Building+AI-Powered+Projects;Java+%7C+React+%7C+Vite+%7C+FastAPI+%7C+Firebase+%7C+Python;Always+learning%2C+trying+and+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;AI+%26+Web+App+Builder;React+%7C+FastAPI+%7C+Firebase+%7C+Java;Building+Projects+%26+Learning+Everyday" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amsir390&label=Profile%20views&color=0e75b6&style=flat" alt="Amsir390" />
-  <img src="https://img.shields.io/github/followers/Amsir390?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Amsir390&label=Profile+Views&color=58A6FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Amsir390?style=for-the-badge&color=58A6FF" />
+  <img src="https://img.shields.io/github/stars/Amsir390?style=for-the-badge&color=58A6FF" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🎓 B.Tech CSE student passionate about software development and real-world product building
-- 💡 Interested in Full Stack Development, AI-powered applications, dashboards, and practical problem-solving
-- 🛠️ Currently building projects with **React, JavaScript, FastAPI, Firebase, Python, and Java**
-- 🌱 Improving my skills in **DSA, backend development, deployment, and scalable web applications**
-- 🎯 Focused on becoming **industry-ready** through strong projects, hands-on learning, and consistency
-- ⚡ I enjoy turning ideas into clean, useful, and working products
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 B.Tech CSE Student
+- 💻 Full Stack Developer
+- 🤖 Interested in AI-powered applications
+- 🚀 Building real-world projects using modern technologies
+- 🌱 Currently improving DSA, backend systems, and scalable architecture
+- ⚡ Passionate about creating clean UI + useful products
+
+<br><br>
 
 ---
 
-## 🧰 Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
 </p>
 
-### Frontend
+### ⚛️ Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
-### Backend & Database
+### 🧠 Backend & Database
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=fastapi,firebase,mysql,sqlite" />
 </p>
 
-### Tools
+### ⚙️ Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+# 🚀 Featured Projects
 
 ### 🔹 AI Pokédex
-A RAG-powered Pokémon assistant using a local LLM, FAISS vector search, and Streamlit to provide accurate Pokémon card comparisons and insights.
+> RAG-powered Pokémon assistant using local LLMs, FAISS vector search, and Streamlit.
 
 ### 🔹 AI Business Forecast
-An AI-powered business analytics dashboard built with FastAPI, React (Vite), and Scikit-Learn for sales prediction and KPI visualization.
+> AI analytics dashboard with FastAPI, React, and Scikit-Learn for KPI forecasting.
 
 ### 🔹 AI Profit Guardian
-A business risk intelligence platform that analyzes large CSV datasets and generates product risk insights using FastAPI and Streamlit.
+> Business risk intelligence platform for analyzing CSV datasets and generating insights.
 
 ### 🔹 React Pizza Menu App
-A responsive React project featuring dynamic menu rendering, sold-out state handling, and real-time open-hour logic.
+> Responsive React app with dynamic rendering and real-time open-hour logic.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=Amsir390&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amsir390&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amsir390&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amsir390&theme=tokyonight&hide_border=true&layout=compact)
-
-![](https://streak-stats.demolab.com?user=Amsir390&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 Goals
-
-- Build strong full stack and AI-based projects
-- Improve DSA and problem-solving
-- Become internship and placement ready
-- Keep learning and shipping real-world apps
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Amsir390&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 GitHub Trophies
 
-<p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amsir390&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amsir390&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amsir390/Amsir390/output/snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
   <a href="mailto:maityankush507@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ankush-m-8582052b7/" target="_blank">
+
+  <a href="https://www.linkedin.com/in/ankush-m-8582052b7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amsir390/Amsir390/output/snake.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer"/>
 </p>
