@@ -464,16 +464,15 @@ LLM Applications
 
 <br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amsir390&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=67E8F9&icon_color=8B5CF6&text_color=CBD5E1"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Amsir390&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=67E8F9&icon_color=8B5CF6&text_color=CBD5E1" width="48%"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amsir390&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=67E8F9&text_color=CBD5E1"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Amsir390&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=67E8F9&text_color=CBD5E1" width="48%"/>
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Amsir390&theme=tokyonight&hide_border=true&background=0B1120&ring=67E8F9&fire=8B5CF6&currStreakLabel=67E8F9&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img src="https://streak-stats.demolab.com?user=Amsir390&theme=tokyonight&hide_border=true&background=0B1120&ring=67E8F9&fire=8B5CF6&currStreakLabel=67E8F9&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
 
 </div>
-
 ---
 
 <div align="center">
@@ -482,10 +481,9 @@ LLM Applications
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Amsir390&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+<img src="https://github-profile-trophy-rs.vercel.app/?username=Amsir390&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="90%"/>
 
 </div>
-
 ---
 
 <div align="center">
