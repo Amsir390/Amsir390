@@ -1,128 +1,603 @@
-<h1 align="center">Hi 👋, I'm Ankush Maity</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • CSE Student • Building AI-Powered Web Apps
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=ANKUSH%20MAITY&fontAlign=50&fontAlignY=38&fontSize=55&fontColor=FFFFFF&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20BUILDER&descAlign=50&descAlignY=62&descSize=18&animation=twinkling&color=0:020617,30:0F172A,60:312E81,100:0891B2" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;AI+%26+Web+App+Builder;React+%7C+FastAPI+%7C+Firebase+%7C+Java;Building+Projects+%26+Learning+Everyday" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amsir390&label=Profile+Views&color=58A6FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Amsir390?style=for-the-badge&color=58A6FF" />
-  <img src="https://img.shields.io/github/stars/Amsir390?style=for-the-badge&color=58A6FF" />
-</p>
-
----
-
-# 💫 About Me
-
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🎓 B.Tech CSE Student
-- 💻 Full Stack Developer
-- 🤖 Interested in AI-powered applications
-- 🚀 Building real-world projects using modern technologies
-- 🌱 Currently improving DSA, backend systems, and scalable architecture
-- ⚡ Passionate about creating clean UI + useful products
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=900&lines=Building+Intelligent+Digital+Experiences;Full-Stack+%2B+AI%2FML+Developer;Computer+Vision+%7C+RAG+%7C+Web+Applications;Turning+Ideas+Into+Working+Systems" />
 
 <br><br>
 
----
+<a href="https://github.com/Amsir390">
+<img src="https://img.shields.io/badge/GitHub-Amsir390-020617?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ankush-m-8582052b7/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:maityankush507@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-# 🛠️ Tech Stack
+<br><br>
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Amsir390&label=PROFILE%20VIEWS&color=06B6D4&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Amsir390?label=FOLLOWERS&color=7C3AED&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Amsir390?label=STARS&color=2563EB&style=for-the-badge"/>
 
-### ⚛️ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
-</p>
-
-### 🧠 Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,firebase,mysql,sqlite" />
-</p>
-
-### ⚙️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+<table>
+<tr>
+<td width="60%" valign="middle">
 
-### 🔹 AI Pokédex
-> RAG-powered Pokémon assistant using local LLMs, FAISS vector search, and Streamlit.
+# 👋 Hey, I'm Ankush
 
-### 🔹 AI Business Forecast
-> AI analytics dashboard with FastAPI, React, and Scikit-Learn for KPI forecasting.
+### Full-Stack Developer · AI/ML Builder · CSE Student
 
-### 🔹 AI Profit Guardian
-> Business risk intelligence platform for analyzing CSV datasets and generating insights.
+I'm a **Computer Science Engineering student** focused on building practical applications that combine **modern web development, artificial intelligence, and machine learning**.
 
-### 🔹 React Pizza Menu App
-> Responsive React app with dynamic rendering and real-time open-hour logic.
+I enjoy taking an idea from concept to a working system — designing interfaces, developing APIs, integrating ML models, and turning complex technology into useful applications.
 
----
+<br>
 
-# 📊 GitHub Analytics
+> **Build → Experiment → Debug → Improve → Ship**
+
+</td>
+
+<td width="40%" align="center">
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amsir390&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amsir390&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+ <img width="1536" height="1024" alt="DEVELOPER" src="https://github.com/user-attachments/assets/8086df77-a6ba-4f93-9de2-3ab8f70161cb" />
+
 </p>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Amsir390&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amsir390&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+## ✦ WHAT I BUILD ✦
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ⚛️
+
+**FULL-STACK**
+
+React
+FastAPI
+REST APIs
+Firebase
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI / ML**
+
+PyTorch
+YOLOv8
+EfficientNet
+Scikit-Learn
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**INTELLIGENT**
+
+RAG
+FAISS
+LLMs
+Computer Vision
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**ENGINEERING**
+
+Java
+Python
+DSA
+Git
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amsir390&theme=tokyo-night&hide_border=true" />
-</p>
+# 🚀 FEATURED PROJECTS
+
+### Selected systems I've built
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td>
+
+<h2>♻️ AI Waste Segregation System</h2>
+
+### Computer Vision · YOLOv8 · EfficientNet · Real-Time Inference
+
+An AI-powered waste segregation system that combines **YOLOv8 object detection** and **EfficientNet image classification** to identify waste from images and live webcam input.
+
+<br>
+
+<img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EfficientNet-Classification-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-Interface-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<br><br>
+
+```text
+                 IMAGE / WEBCAM
+                       │
+                       ▼
+              ┌─────────────────┐
+              │     YOLOv8      │
+              │ Object Detection│
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │   Detected      │
+              │     Object      │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │   EfficientNet  │
+              │  Classification │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │ Waste Category  │
+              │   + Prediction  │
+              └─────────────────┘
+```
+
+### Key Capabilities
+
+* 🎯 Real-time waste detection
+* 🧠 Deep-learning classification pipeline
+* 📷 Webcam inference
+* 🖼️ Image upload inference
+* 📊 Interactive Streamlit dashboard
+* ⚡ Automated detection → classification workflow
+* ♻️ Multi-class waste recognition
+* 📦 15,000+ image training dataset
+
+### Supported Waste Categories
+
+`Cardboard` · `Glass` · `Metal` · `Paper`
+
+`Plastic` · `Organic` · `Hazardous` · `Other`
+
+**Tech:** `Python` `PyTorch` `YOLOv8` `EfficientNet` `OpenCV` `Streamlit` `NumPy` `Pandas`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h2>🤖 AI Pokédex</h2>
+
+### RAG · FAISS · Local LLM
+
+An intelligent Pokémon assistant using **Retrieval-Augmented Generation** to retrieve relevant knowledge before generating contextual answers.
+
+<br>
+
+```text
+User Query
+    ↓
+Embedding
+    ↓
+FAISS Search
+    ↓
+Relevant Context
+    ↓
+Local LLM
+    ↓
+AI Response
+```
+
+### Highlights
+
+* 🔎 Semantic vector search
+* 🧠 RAG pipeline
+* 🤖 Local LLM integration
+* 📚 Context retrieval
+* 💬 Natural-language interaction
+* ⚡ Streamlit interface
+
+**Tech:** `Python` `RAG` `FAISS` `LLM` `Streamlit`
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>📊 AI Business Forecast</h2>
+
+### React · FastAPI · Machine Learning
+
+A full-stack analytics platform that combines business data, machine learning and interactive dashboards to generate KPI forecasts.
+
+<br>
+
+```text
+Business Data
+     ↓
+Data Processing
+     ↓
+ML Model
+     ↓
+Forecast
+     ↓
+FastAPI
+     ↓
+React Dashboard
+```
+
+### Highlights
+
+* 📈 KPI forecasting
+* 📊 Interactive analytics
+* ⚙️ REST API backend
+* 🧠 ML integration
+* 📋 Business data processing
+* 🎯 Forecast-driven insights
+
+**Tech:** `React` `FastAPI` `Python` `Scikit-Learn`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td>
+
+<h2>🛡️ AI Profit Guardian</h2>
+
+### Business Intelligence · Risk Analysis · AI Insights
+
+A business intelligence application designed to analyze structured datasets, identify potential risks and generate useful insights for decision-making.
+
+<br>
+
+```text
+Business Dataset
+       ↓
+Data Analysis
+       ↓
+Risk Detection
+       ↓
+AI Insights
+       ↓
+Decision Support
+```
+
+### Highlights
+
+* 📁 CSV dataset analysis
+* 📊 Business intelligence
+* 🚨 Risk identification
+* 💡 Automated insights
+* 📈 Data-driven analysis
+
+**Tech:** `Python` `AI/ML` `CSV` `Analytics`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amsir390/Amsir390/output/snake.svg" alt="snake animation"/>
-</p>
+# 🧰 TECHNOLOGY STACK
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### Languages
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### Frontend
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### Backend & Databases
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=fastapi,firebase,mysql,sqlite"/>
+
+</td>
+
+<td align="center">
+
+### AI / ML
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<br><br>
+
+`YOLOv8` · `EfficientNet` · `OpenCV`
+`Scikit-Learn` · `FAISS` · `RAG` · `LLMs`
+
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+
+### Tools
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="mailto:maityankush507@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+# 🧠 CURRENTLY LEARNING
 
-  <a href="https://www.linkedin.com/in/ankush-m-8582052b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+</div>
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+<h2>01</h2>
+<b>DSA</b>
+<br>
+Algorithms
+<br>
+Problem Solving
+</td>
+
+<td align="center" width="20%">
+<h2>02</h2>
+<b>JAVA</b>
+<br>
+OOP
+<br>
+Backend Fundamentals
+</td>
+
+<td align="center" width="20%">
+<h2>03</h2>
+<b>BACKEND</b>
+<br>
+APIs
+<br>
+Architecture
+</td>
+
+<td align="center" width="20%">
+<h2>04</h2>
+<b>AI / ML</b>
+<br>
+Deep Learning
+<br>
+Computer Vision
+</td>
+
+<td align="center" width="20%">
+<h2>05</h2>
+<b>RAG</b>
+<br>
+Vector Search
+<br>
+LLM Applications
+</td>
+
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer"/>
-</p>
+<div align="center">
+
+# 📈 GITHUB ANALYTICS
+
+<br>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amsir390&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=67E8F9&icon_color=8B5CF6&text_color=CBD5E1"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amsir390&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=67E8F9&text_color=CBD5E1"/>
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Amsir390&theme=tokyonight&hide_border=true&background=0B1120&ring=67E8F9&fire=8B5CF6&currStreakLabel=67E8F9&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 GITHUB TROPHIES
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amsir390&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 CONTRIBUTION ACTIVITY
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amsir390&bg_color=0B1120&color=67E8F9&line=8B5CF6&point=FFFFFF&area_color=312E81&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 CONTRIBUTION SNAKE
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Amsir390/Amsir390/output/snake.svg" width="90%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🎯 DEVELOPMENT FOCUS
+
+```text
+FULL-STACK
+   │
+   ├── React
+   ├── FastAPI
+   └── REST APIs
+
+AI / ML
+   │
+   ├── Computer Vision
+   ├── Deep Learning
+   └── RAG / LLM
+
+ENGINEERING
+   │
+   ├── DSA
+   ├── Java
+   └── Software Design
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+## ✦ BUILDING PHILOSOPHY
+
+**01 · Learn**
+
+Understand the fundamentals.
+
+**02 · Build**
+
+Turn concepts into working systems.
+
+**03 · Experiment**
+
+Try, test and iterate.
+
+**04 · Debug**
+
+Understand why things break.
+
+**05 · Improve**
+
+Make every version better.
+
+**06 · Ship**
+
+Create something people can use.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🌐 LET'S CONNECT
+
+<br>
+
+<a href="https://github.com/Amsir390">
+<img src="https://img.shields.io/badge/GitHub-Amsir390-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ankush-m-8582052b7/">
+<img src="https://img.shields.io/badge/LinkedIn-Ankush%20Maity-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:maityankush507@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+### `BUILD • LEARN • EXPERIMENT • IMPROVE`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,30:1E3A8A,65:6D28D9,100:0891B2" width="100%"/>
+
+</div>
